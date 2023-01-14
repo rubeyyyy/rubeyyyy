@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rubi khatri.
 - 👀 I’m interested in programming and designing 
 - 🌱 I’m currently studying computer engineering
-- 💞️ I’m looking to collaborate on front end development
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 You can reach me at rubikhatri07@gmail.com
 
 <!---
